@@ -1,2 +1,0 @@
-# MLProject
-NYCDSA Project - ML
