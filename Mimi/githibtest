@@ -1,0 +1,36 @@
+cd into project folder
+git add .
+git commit -m "comment"
+git status
+git remote -v
+git fetch upstream
+git checkout master
+git merge upstream/master
+git pull
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+git add .
+
+git commit -m “comment”
+
+git fetch upstream
+
+git checkout master
+
+git merge upstream/master
+
+git pull
+
+git push
